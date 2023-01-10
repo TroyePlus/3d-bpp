@@ -16,4 +16,4 @@
 $`a^2 + b^2 = c^2`$
 啥![1](https://latex.codecogs.com/gif.latex?\\sum_{i=0}^n)玩意啊
 
-![y等于x的平方](https://latex.codecogs.com/svg.image?y=x^2)
+这能![y等于x的平方](https://latex.codecogs.com/svg.image?y=x^2)用吗
